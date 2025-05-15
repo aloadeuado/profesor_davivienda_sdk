@@ -1,0 +1,6 @@
+{
+    "name": "davivienda-teacher-sdk",
+    "version": "1.1.2",
+    "main": "index.js",
+    "type": "commonjs"
+  }
